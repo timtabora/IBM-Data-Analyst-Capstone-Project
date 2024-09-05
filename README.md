@@ -7,3 +7,5 @@ As a Data Analyst, we will be assisting with this initiative and have been taske
 Our first task is to collect the top programming skills that are most in demand from various sources including: job postings, training portals, and surveys.
 
 Once we have collected enough data, we will begin analyzing the data and identify insights and trends.
+
+Each file represents a step in the data analysis process for this project. Additional files are included as well.
